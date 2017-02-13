@@ -1,9 +1,17 @@
 <chickenRecipes>
     <genre title="Snacks & Starters">
         <recipe title="Crispy Chicken Wings"></recipe>
-        <recipe></recipe>
+        <recipe title="Spicy Buffalo Wings with Ranch Dressing"></recipe>
+        <recipe title=""></recipe>
+        <recipe title=""></recipe>
+        <recipe title=""></recipe>
+        <recipe title=""></recipe>
+        <recipe title=""></recipe>
+        <recipe title=""></recipe>
     </genre>
-    <genre>Bakes & Barbecues</genre>
+    <genre title="Bakes & Barbecues">
+        <recipe title=""></recipe>
+    </genre>
     <genre>Casseroles</genre>
     <genre>Chicken with Pasta</genre>
     <genre>Curries</genre>
