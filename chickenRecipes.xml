@@ -1,5 +1,8 @@
 <chickenRecipes>
-    <genre>Snacks & Starters</genre>
+    <genre title="Snacks & Starters">
+        <recipe title="Crispy Chicken Wings"></recipe>
+        <recipe></recipe>
+    </genre>
     <genre>Bakes & Barbecues</genre>
     <genre>Casseroles</genre>
     <genre>Chicken with Pasta</genre>
