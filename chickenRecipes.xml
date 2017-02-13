@@ -2,7 +2,7 @@
     <genre title="Snacks & Starters">
         <recipe title="Crispy Chicken Wings"></recipe>
         <recipe title="Spicy Buffalo Wings with Ranch Dressing"></recipe>
-        <recipe title=""></recipe>
+        <recipe title="Chicken and Lime Hummus Tortillas"></recipe>
         <recipe title=""></recipe>
         <recipe title=""></recipe>
         <recipe title=""></recipe>
@@ -12,8 +12,16 @@
     <genre title="Bakes & Barbecues">
         <recipe title=""></recipe>
     </genre>
-    <genre>Casseroles</genre>
-    <genre>Chicken with Pasta</genre>
-    <genre>Curries</genre>
-    <genre>Stir Fries & Pan Fries</genre>
+    <genre title="Casseroles">
+        <recipe title=""></recipe>
+    </genre>
+    <genre title="Chicken with Pasta">
+        <recipe title=""></recipe>
+    </genre>
+    <genre title="Curries">
+        <recipe title=""></recipe>
+    </genre>
+    <genre title="Stir Fries & Pan Fries">
+        <recipe title=""></recipe>
+    </genre>
 </chickenRecipes>
